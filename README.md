@@ -1,5 +1,5 @@
 DirectToxy
-= = = = = = = =
+====
 
 DirectTox client for Windows.
 

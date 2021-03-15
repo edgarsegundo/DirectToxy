@@ -1,32 +1,9 @@
-Toxy
-====
+DirectToxy
+= = = = = = = =
 
-Tox client for Windows that loosely follows the official mockup and aims to be [TCS](https://tox.gitbooks.io/tox-client-standard/content/) compliant. [Tox](https://github.com/irungentoo/ProjectTox-Core "Toxcore GitHub repo") is a free (as in freedom) Skype replacement.
+DirectTox client for Windows.
 
 Feel free to contribute.
-
-### Features
-
-* Standard features like:
-  - Nickname customization
-  - Status customization
-  - Friendlist
-  - One to one conversations
-  - Friendrequests
-* Avatars
-* Group chats
-* Voice chats
-* Video chats
-* Proxy support (SOCKS5 & HTTP)
-* Read receipts
-* File transfers
-* Typing detection
-* DNS discovery (tox1 and tox3)
-
-### Screenshots
-
-![Main Window](https://alexbakker.me/u/lzfwrz0a.png)
-![Main Window with settings)](https://alexbakker.me/u/iwe5bi81.png)
 
 Compiling Toxy
 ===
